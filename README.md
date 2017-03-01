@@ -1,9 +1,11 @@
 # WebpackTalk
 Slides from my talk, Webpack: It's Not Magic.
 
-Transcript to come.
+Recording from BuzzJS, January 2017: https://www.youtube.com/watch?v=_QEM9kdV-b0
 
-Visit the page for this at https://naomiajacobs.github.io/WebpackTalk.
+Transcript in progress.
+
+Slides available at: https://naomiajacobs.github.io/WebpackTalk.
 
 ## Transcript (lightly edited)
 ### One paragraph per slide, stars * at transitions within slides
